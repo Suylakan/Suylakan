@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Suylakan
-- 👀 I’m interested in C
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in C and Python
+- 🌱 I’m currently learning Python
